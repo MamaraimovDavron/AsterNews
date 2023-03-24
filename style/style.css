@@ -802,4 +802,9 @@
   width: 154.14px;
   height: 132px;
   border-radius: 4px;
+}
+.middle--container .creators-box {
+  width: 400px;
+  height: 500px;
+  border: 1px solid red;
 }/*# sourceMappingURL=style.css.map */
